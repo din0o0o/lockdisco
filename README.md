@@ -3,7 +3,7 @@
 > # $\color{#ffeb3b}\{\textbf{Lockdisco}}$
 </br>
 
-LED pattern sequencer for Num, Caps and Scroll Lock.
+CLI tool for playing with keyboard LEDs.
 
 Edit patterns, set BPM and length, then play them back as blinking lock-key LEDs.
 
