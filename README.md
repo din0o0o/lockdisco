@@ -1,6 +1,6 @@
 [![Download dInk](https://img.shields.io/github/v/release/din0o0o/lockdisco?label=Download&color=ffeb3b&labelColor=2d2d2d&style=for-the-badge)](https://github.com/din0o0o/lockdisco/releases/latest)
 
-> # $\color{#ffeb3b}\{\textbf{dInk}}$
+> # $\color{#ffeb3b}\{\textbf{Lockdisco}}$
 </br>
 
 LED pattern sequencer for Num, Caps and Scroll Lock.
