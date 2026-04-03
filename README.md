@@ -1,25 +1,19 @@
-# lockdisco
+[![Download dInk](https://img.shields.io/github/v/release/din0o0o/lockdisco?label=Download&color=ffeb3b&labelColor=2d2d2d&style=for-the-badge)](https://github.com/din0o0o/lockdisco/releases/latest)
 
-LED pattern sequencer for keyboard lock keys (Num Lock, Caps Lock, Scroll Lock).
+> # $\color{#ffeb3b}\{\textbf{dInk}}$
+</br>
 
-Edit rhythmic patterns on a grid, set BPM and beat count, then play them back as blinking lock-key LEDs.
+LED pattern sequencer for Num, Caps and Scroll Lock.
 
-## Controls
+Edit patterns, set BPM and length, then play them back as blinking lock-key LEDs.
 
-| Key | Action |
-|-----|--------|
-| Space | Play / Stop |
-| E | Enter / Exit edit mode |
-| Arrows | Navigate grid / parameters |
-| Space (edit) | Toggle cell |
-| +/- (edit) | Adjust BPM or beat count |
-| Q | Quit (restores original LED states) |
-
-## Build
-
+#### $\color{#fff8dc}\text{Build from source:}$
 Requires GCC (MinGW/w64devkit) on Windows.
-
 ```
 windres lockdisco.rc -O coff -o lockdisco.res
 gcc lockdisco.c lockdisco.res -o lockdisco.exe
 ```
+
+
+
+
