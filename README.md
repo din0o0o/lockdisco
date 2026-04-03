@@ -11,8 +11,7 @@ Edit patterns, set BPM and length, then play them back as blinking lock-key LEDs
 ## $\color{#adf137}\text{Build from source}$ </br>
 Requires GCC (MinGW/w64devkit) on Windows.
 ```
-windres lockdisco.rc -O coff -o lockdisco.res
-gcc lockdisco.c lockdisco.res -o lockdisco.exe
+windres lockdisco.rc -O coff -o lockdisco.res gcc lockdisco.c lockdisco.res -o lockdisco.exe
 ```
 
 
