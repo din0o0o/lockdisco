@@ -7,7 +7,8 @@ LED pattern sequencer for Num, Caps and Scroll Lock.
 
 Edit patterns, set BPM and length, then play them back as blinking lock-key LEDs.
 
-#### $\color{#fff8dc}\text{Build from source:}$
+</br></br>
+## $\color{#adf137}\text{Build from source}$ </br>
 Requires GCC (MinGW/w64devkit) on Windows.
 ```
 windres lockdisco.rc -O coff -o lockdisco.res
